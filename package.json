@@ -52,7 +52,7 @@
     "lint": "eslint .",
     "pretest": "npm run lint",
     "test": "vscode-test",
-    "build": "npx vsce package --baseImagesUrl https://raw.githubusercontent.com/Djonata-BPlus/controlf/refs/heads/main/"
+    "build": "npx vsce package --baseImagesUrl https://raw.githubusercontent.com/rootdnh/controlf-vscode-plugin/refs/heads/main/"
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
